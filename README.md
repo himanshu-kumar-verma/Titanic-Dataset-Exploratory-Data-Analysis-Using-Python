@@ -86,7 +86,7 @@ and predictive modeling in future steps.
 - Titanic Dataset
   - train.csv
   - test.csv
-  - gender_summary.csv
+  - gender_submission.csv
 - Titanic_EDA_Jupyter_Notebook
   - Titanic_EDA.ipynb
   - PDF Report
